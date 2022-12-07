@@ -11,7 +11,7 @@ export default {
 
 <template>
     <div>
-        <h1>{{ msg }}</h1>
+        <h1><font-awesome-icon icon="fa-solid fa-house" />{{ msg }}<font-awesome-icon icon="fa-solid fa-house" /></h1>
     </div>
 </template>
 
